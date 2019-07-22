@@ -1,0 +1,28 @@
+[
+  {
+    "height": 1,
+    "reward": 200000000,
+    "activeDelegates": 51,
+    "blocktime": 8,
+    "block": {
+      "version": 0,
+      "maxTransactions": 150,
+      "maxPayload": 6291456
+    },
+    "epoch": "2019-07-22T05:13:21.478Z",
+    "fees": {
+      "staticFees": {
+        "transfer": 10000000,
+        "secondSignature": 500000000,
+        "delegateRegistration": 2500000000,
+        "vote": 100000000,
+        "multiSignature": 500000000,
+        "ipfs": 0,
+        "timelockTransfer": 0,
+        "multiPayment": 0,
+        "delegateResignation": 0
+      }
+    },
+    "vendorFieldLength": 255
+  }
+]

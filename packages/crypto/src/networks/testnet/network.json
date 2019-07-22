@@ -1,0 +1,18 @@
+{
+  "name": "testnet",
+  "messagePrefix": "TUR message:\n",
+  "bip32": {
+    "public": 70617039,
+    "private": 70615956
+  },
+  "pubKeyHash": 65,
+  "nethash": "1db55d67a83226f78317958c68c4a9779cfdf8d6be29804eb7a28ccfeca17f42",
+  "wif": 213,
+  "slip44": 1,
+  "aip20": 0,
+  "client": {
+    "token": "TUR",
+    "symbol": "Ξ",
+    "explorer": "http://0.0.0.0:4200"
+  }
+}
